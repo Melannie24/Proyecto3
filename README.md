@@ -191,7 +191,7 @@ Esta clase crea la ventana principal de la aplicación y contiene los controles 
 
 *Manual de Usuario - Documentación Externa*
 
-```markdown
+
 # Manual de Usuario - Documentación Externa
 
 Este manual describe cómo utilizar la aplicación de gestión de vehículos. Está destinado a los usuarios finales que interactuarán con el sistema para registrar, buscar y eliminar información de vehículos.
