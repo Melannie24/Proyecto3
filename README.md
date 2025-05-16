@@ -10,9 +10,9 @@ La aplicación de Gestión de Vehículos permite mantener un registro organizado
 
 Al iniciar la aplicación, se mostrará una ventana con las siguientes secciones:
 
-* *Panel de Controles (Parte Superior):* Contiene campos para ingresar la información de un nuevo vehículo (Placa, Color, Línea, Modelo, Propietario) y botones para realizar las acciones de "Insertar" y "Eliminar por Placa".
+* *Panel de Controles (Parte Superior de la ventana):* Contiene campos para ingresar la información de un nuevo vehículo (Placa, Color, Línea, Modelo, Propietario) y botones para realizar las acciones de "Insertar" y "Eliminar por Placa".
 * *Tabla de Vehículos (Centro):* Muestra la lista de todos los vehículos registrados en el sistema en formato de tabla con las columnas: Placa, Color, Línea, Modelo y Propietario.
-* *Panel de Búsqueda (Parte Inferior):* Contiene un campo de texto para ingresar un criterio de búsqueda y botones para "Buscar" y "Mostrar Todo".
+* *Panel de Búsqueda (Parte Inferior de la ventana):* Contiene un campo de texto para ingresar un criterio de búsqueda y botones para "Buscar" y "Mostrar Todo".
 
 ## 3. Funcionalidades Principales
 
